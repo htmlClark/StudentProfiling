@@ -6,5 +6,11 @@
         {
             Console.WriteLine("Hello, World!");
         }
+
+        void sendMessage()
+        {
+            Console.Write("Thank you!");
+        }
+
     }
 }
