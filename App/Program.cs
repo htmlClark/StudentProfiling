@@ -12,5 +12,10 @@
             Console.Write("Thank you!");
         }
 
+        void addNumber()
+        {
+            
+        }
+
     }
 }
